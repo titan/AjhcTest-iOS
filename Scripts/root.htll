@@ -1,0 +1,2 @@
+(let ((content (label '((text-alignment . center)))))
+  (in content 'self.view))
